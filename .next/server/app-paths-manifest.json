@@ -1,0 +1,8 @@
+{
+  "/hangouts/page": "app/hangouts/page.js",
+  "/letter/page": "app/letter/page.js",
+  "/pranks/page": "app/pranks/page.js",
+  "/cards/page": "app/cards/page.js",
+  "/finale/page": "app/finale/page.js",
+  "/wishes/page": "app/wishes/page.js"
+}
